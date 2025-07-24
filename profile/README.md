@@ -1,12 +1,12 @@
 # Symbiosis Quantum Club 
 
-Welcome to the official GitHub repository of the **Symbiosis Quantum Club** — a student-driven initiative from the Department of Artificial Intelligence and Machine Learning at **Symbiosis Institute of Technology, Pune**. Our mission is to make **quantum computing and quantum machine learning** accessible, practical, and exciting for students and researchers alike.
+Welcome to the official GitHub repository of the **Symbiosis Quantum Club**; a student-driven initiative from the Department of Artificial Intelligence and Machine Learning at **Symbiosis Institute of Technology, Pune**. Our mission is to make **quantum computing and quantum machine learning** accessible, practical, and exciting for students and researchers alike.
 
 ---
 
 ##  Why Quantum Computing?
 
-Quantum computing is more than a buzzword — it's a technological leap that is expected to **revolutionize industries** from healthcare and finance to cybersecurity and artificial intelligence. As classical computing begins to reach its physical limits, quantum computing offers a fundamentally new way of solving problems that are **intractable for classical systems**, by leveraging phenomena like **superposition**, **entanglement**, and **quantum interference**.
+Quantum computing is more than a buzzword; it's an ongoing technological leap that is expected to **revolutionize industries** from healthcare and finance to cybersecurity. As classical computing begins to reach its physical limits, quantum computing offers a fundamentally new way of solving problems that are **intractable for classical systems**, by leveraging phenomena like **superposition**, **entanglement**, and **quantum interference**.
 
 ---
 
@@ -18,7 +18,7 @@ Quantum computing is more than a buzzword — it's a technological leap that is 
 
 ---
 
-## What You'll Find Here
+## What will You Find Here?
 
 ###  Educational Modules
 
