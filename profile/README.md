@@ -4,13 +4,13 @@ Welcome to the official GitHub repository of the **Symbiosis Quantum Club** — 
 
 ---
 
-## 🔬 Why Quantum Computing?
+##  Why Quantum Computing?
 
 Quantum computing is more than a buzzword — it's a technological leap that is expected to **revolutionize industries** from healthcare and finance to cybersecurity and artificial intelligence. As classical computing begins to reach its physical limits, quantum computing offers a fundamentally new way of solving problems that are **intractable for classical systems**, by leveraging phenomena like **superposition**, **entanglement**, and **quantum interference**.
 
 ---
 
-## 🪧 Our Mission
+##  Our Mission
 
 * To build an open and collaborative learning space for **quantum enthusiasts**.
 * To bridge the gap between theory and practice through **hands-on code projects**.
@@ -18,14 +18,14 @@ Quantum computing is more than a buzzword — it's a technological leap that is 
 
 ---
 
-## 📂 What You'll Find Here
+## What You'll Find Here
 
-### 🎓 Educational Modules
+###  Educational Modules
 
 * Beginner-friendly tutorials on **Qiskit**, **quantum gates**, **quantum circuits**, and **measurement**.
 * Step-by-step notebooks covering key topics in **quantum mechanics** and **quantum machine learning (QML)**.
 
-### 🚀 Featured Projects
+### Featured Projects
 
 * Quantum Random Number Generators (QRNG)
 * Quantum-enhanced Search Algorithms (Grover)
@@ -34,7 +34,7 @@ Quantum computing is more than a buzzword — it's a technological leap that is 
 
 ---
 
-## 🔍 Our Tech Stack
+## Our Tech Stack
 
 * [Qiskit](https://qiskit.org/) – IBM’s open-source quantum SDK
 * [PennyLane](https://pennylane.ai/) – Hybrid quantum machine learning
