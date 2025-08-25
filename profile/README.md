@@ -1,6 +1,6 @@
-# Symbiosis Quantum Club 
+# Symbiosis Quantum Club (SQC)
 
-Welcome to the official GitHub repository of the **Symbiosis Quantum Club**; a student-driven initiative from the Department of Artificial Intelligence and Machine Learning at **Symbiosis Institute of Technology, Pune**. Our mission is to make **quantum computing and quantum machine learning** accessible, practical, and exciting for students and researchers alike.
+Welcome to the official GitHub repository of the **Symbiosis Quantum Club (SQC)**; a student-driven initiative from the Department of Artificial Intelligence and Machine Learning at **Symbiosis Institute of Technology, Pune**. Our mission is to make **quantum computing and quantum machine learning** accessible, practical, and exciting for students and researchers alike.
 
 ---
 
